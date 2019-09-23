@@ -1,5 +1,5 @@
 {
-  "name": "maatwebsite/excel",
+  "name": "rpsimao/excel",
   "description": "Supercharged Excel exports in Laravel",
   "license": "MIT",
   "keywords": [
@@ -62,5 +62,6 @@
                 "Excel": "Maatwebsite\\Excel\\Facades\\Excel"
             }
         }
-    }
+    },
+  "minimum-stability": "dev"
 }
